@@ -3,7 +3,7 @@
 Esse projeto contou com análise exploratória usando no Google Colab usando algumas bibliotecas do Python, como o pandas, por exmplo.
 * confira os notbooks
 
-## [Notboock]() 
+## [Notboock](https://github.com/Olavo5/projeto_case/tree/master/notbooks) 
 
 A visualização dos dados foram feitas no Tableau
 * confira o dashboard 
