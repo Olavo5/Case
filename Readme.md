@@ -1,6 +1,6 @@
 ﻿> # DATA ANALYST - STORYTELLING CASE iFood
 
-Esse projeto contou com análise exploratória usando no Google Colab usando algumas bibliotecas do Python, como o pandas, por exmplo.
+Esse projeto contou com a análise exploratória usando o Google Colab e algumas algumas bibliotecas do Python, como o pandas, por exmplo.
 * confira os notbooks
 
 ## [Notboock](https://github.com/Olavo5/projeto_case/tree/master/notbooks) 
